@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Psych 10: Full Syllabus
+title: Brain Networks: Full Syllabus
 ---
 Revised 08/22/2018
 ## Overview of the course
