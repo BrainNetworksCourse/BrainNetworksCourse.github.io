@@ -16,7 +16,7 @@ An essential aspect of the brain is its complex pattern of connectivity between 
 
 **Course Requirements**:  You will need a laptop computer for use in every class.  If you do not have access to a laptop please contact the instructor ASAP and we will help you obtain access to one.  
 
-**Website**: The primary web site for the class is http://BrainNetworksCourse.github.io.  
+**Website**: The primary web site for the class is [http://BrainNetworksCourse.github.io](http://BrainNetworksCourse.github.io).  
 
 **Materials**:
 
