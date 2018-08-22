@@ -22,6 +22,6 @@ title: Brain Networks
 **Office Hours**: By appointment upon request
 
 
-**Source code**: Source code and related files for most class demos are available at https://github.com/BrainNetworksCourse/brain-networks-course.
+**Source code**: Source code and related files for most class demos are available at [https://github.com/BrainNetworksCourse/brain-networks-course](https://github.com/BrainNetworksCourse/brain-networks-course).
 
 Follow the links at the top of the page for more information about the course.
