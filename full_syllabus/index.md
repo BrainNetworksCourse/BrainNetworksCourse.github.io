@@ -81,6 +81,6 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 11/15|Hands on: Network modeling with fMRI data<br>|- [Network modelling methods for fMRI](http://mri-q.com/uploads/3/4/5/7/34572113/smith-fmri-2011.pdf)|
 | 11/27|Large-scale brain networks<br>|- [The organization of the human cerebral cortex estimated by intrinsic functional connectivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3174820/)<br>- TBD|
 | 11/29|Hands on: Parcellation and large-scale networks<br>||
-| 12/4|Dynamics of brain networks<br>|
-| 12/6|Hands on: Simulating dynamics using the Virtual Brain<br>|
+| 12/4|Dynamics of brain networks<br>|TBD|
+| 12/6|Hands on: Simulating dynamics using the Virtual Brain<br>|TBD|
 | 12/10|Final meeting with project presentations, 12:15-3:15 pm <br>||
