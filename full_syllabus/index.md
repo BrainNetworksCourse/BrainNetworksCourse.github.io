@@ -2,7 +2,7 @@
 layout: default
 title: Brain Networks: Full Syllabus
 ---
-Revised 08/22/2018
+Revised 08/27/2018
 ## Overview of the course
 
 An essential aspect of the brain is its complex pattern of connectivity between neurons across different areas.  This course will provide a comprehensive overview of the networks of the brain, analyzed from a range of standpoints from the microscopic to the macroscopic, with a particular focus on the organization of the human brain.  Specific topics include brain anatomy, connectomics, structural and functional neuroimaging, graph theory and network science, dynamic models, and causal inference. The course will comprise a combination of lectures, paper discussions, and hands-on analysis exercises.   The first session each week will be composed of lecture and discussion, and the second session will be focused on discussion and hands-on analyses, with students assigned to lead each discussion.
@@ -65,7 +65,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ---|---|---|
 | 9/25|Introduction: The concept and biology of brain connectivity<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the different ways in which the concept of "brain connectivity" can be defined<br>* Describe the structural and functional basis of brain connectivity<br><br>|- [Brain connectivity](http://www.scholarpedia.org/article/Brain_connectivity)<br>- [From Cajal to Connectome and Beyond](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-071714-033954)|
 | 9/27|Hands on: Visualizing white matter structure with [FSLeyes](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes) and [nilearn](https://nilearn.github.io/index.html)<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Identify major white matter tracts in probabilistic atlases<br>* Load and visualize tract atlases in both FSLeyes and Python<br><br>||
-| 10/2|Graph theory<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the basic concepts of graph theory<br><br>|- [A gentle introduction to graph theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8) |
+| 10/2|Graph theory<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the basic concepts of graph theory<br><br>|- [Network Science](https://pdfs.semanticscholar.org/54c8/9331fe520d77c2cb2581dd4c63af461d07e9.pdf)|
 | 10/4|Hands on: Graph theory<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Use NetworkX to create and analyze graph data<br><br>||
 | 10/9|Network modeling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concepts of integration and segregation<br>* Describe the concept of modularity<br>* Describe the concept of community detection and the different approaches<br><br>|- [Brain graphs: graphical models of the human brain connectome](https://www.ncbi.nlm.nih.gov/pubmed/21128784)<br>- [Complex network measures of brain connectivity: uses and interpretations](https://www.ncbi.nlm.nih.gov/pubmed/19819337)<br>|
 | 10/11|Hands on: Network modeling<br>||
