@@ -1,3 +1,12 @@
+### Additional resources
+
+The following resources are useful as background and/or for a further dive into the topics discussed in this course:
+
+- [Networks: An Introduction, by Mark Newman](https://www.amazon.com/Networks-Introduction-Mark-Newman/dp/0199206651) - an outstanding introduction to the ideas behind graph theory and network analysis
+- [Networks of the Brain, by Olaf Sporns](https://www.amazon.com/Networks-Brain-Press-Olaf-Sporns-ebook/dp/B005AT9ZOI/ref=sr_1_1?s=books&ie=UTF8&qid=1535385228&sr=1-1&keywords=sporns) - excellent overview of network neuroscience
+- [Fundamentals of Brain Network Analysis, by Fornito, Zalesky, & Bullmore](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito-ebook/dp/B01CRIU886/ref=sr_1_1?s=books&ie=UTF8&qid=1535384994&sr=1-1&keywords=fornito) - a deep dive into the concepts and methods behind brain network modeling
+
+
 ### Environment setup for Brain Networks course
 
 For this course we will use a virtual machine that will allow everyone to have
@@ -56,7 +65,7 @@ Once the installation is done, then restart the virtual machine; to do this, go 
 On occasion we will update the VM with new packages.  To pull the latest changes into your fork, you will first need to add the main repository as a remote to your repo:
 
 ```
-git remote add upstream https://github.com/poldrack/brain-networks-course.git
+git remote add upstream https://github.com/BrainNetworksCourse/brain-networks-course.git
 ```
 
 After doing this once, you can then use the following command within the repo directory to pull the latest changes:
