@@ -25,3 +25,9 @@ title: Brain Networks
 **Source code**: Source code and related files for most class demos are available at [https://github.com/BrainNetworksCourse/brain-networks-course](https://github.com/BrainNetworksCourse/brain-networks-course).
 
 Follow the links at the top of the page for more information about the course.
+
+Thanks to:
+
+- [DataCamp](https://www.datacamp.com/) for providing free access to its courses for our students. 
+- [Github Education](https://education.github.com/) for providing course resources including Github Classroom.
+
