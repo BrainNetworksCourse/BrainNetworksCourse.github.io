@@ -6,6 +6,24 @@ The following resources are useful as background and/or for a further dive into 
 - [Networks of the Brain, by Olaf Sporns](https://www.amazon.com/Networks-Brain-Press-Olaf-Sporns-ebook/dp/B005AT9ZOI/ref=sr_1_1?s=books&ie=UTF8&qid=1535385228&sr=1-1&keywords=sporns) - excellent overview of network neuroscience
 - [Fundamentals of Brain Network Analysis, by Fornito, Zalesky, & Bullmore](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito-ebook/dp/B01CRIU886/ref=sr_1_1?s=books&ie=UTF8&qid=1535384994&sr=1-1&keywords=fornito) - a deep dive into the concepts and methods behind brain network modeling
 
+### Sources for open data
+
+Here are a number of possible sources of open brain network data for the project:
+
+- [Human Connectome Project](https://db.humanconnectome.org/) - massive human connectomics dataset (requires registration)
+- [Allen Institute Mouse Brain Connectivity Atlas](http://connectivity.brain-map.org/)
+- [CoCoMac macaque connectivity data](http://cocomac.g-node.org/main/index.php)
+- [USC Multimodal Connectivity Database](http://umcd.humanconnectomeproject.org/)
+- [StudyForrest](http://studyforrest.org/) - a large amount of data collected on humans watching Forrest Gump
+- [WormAtlas](http://www.wormatlas.org/) - a database for C. Elegans data including connectvity
+- [Core Nets](http://core-nets.org) - substantial database of macaque tract tracing data
+- [Preprocessed Connectomes Project](http://preprocessed-connectomes-project.org/) - preprocessed human fMRI data
+- [NeuroTycho](http://neurotycho.org/) - electrophysiological data
+
+There are also two neuroscience-specific portals that you can use to search for relevant data:
+
+- [SciCrunch](https://scicrunch.org) - this is a search engine that you can use to find datasets of interest across many different resources
+- [NITRC](https://www.nitrc.org/) - another portal that provides the ability to search across many different data sets and databases
 
 ### Environment setup for Brain Networks course
 
