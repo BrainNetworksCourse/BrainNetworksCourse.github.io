@@ -12,6 +12,7 @@ Here are a number of possible sources of open brain network data for the project
 
 - [Human Connectome Project](https://db.humanconnectome.org/) - massive human connectomics dataset (requires registration)
 - [Allen Institute Mouse Brain Connectivity Atlas](http://connectivity.brain-map.org/)
+- [Neurodata.io](https://neurodata.io/) - database of large-scale connectomics data
 - [CoCoMac macaque connectivity data](http://cocomac.g-node.org/main/index.php)
 - [USC Multimodal Connectivity Database](http://umcd.humanconnectomeproject.org/)
 - [StudyForrest](http://studyforrest.org/) - a large amount of data collected on humans watching Forrest Gump
