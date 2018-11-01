@@ -26,11 +26,11 @@ Stanford University and its instructors are committed to ensuring that all cours
 
 Grades will be determined as follows:
 
-- Weekly problem sets/discussion questions (50%)
+- Weekly problem sets/discussion questions (20%)
 - Final project
-    - Proposal (5%) - Due 10/21
-    - Final submission (15%) - Due
-    - Presentation (5% for stand-up on 10/18, 5% for final presentation)
+    - Proposal (10%) - Due 10/21
+    - Final submission (30%) - Due
+    - Presentation (5% for stand-up on 10/18, 10% for final presentation)
 - Class participation (25%)
     - Each student will be responsible for presenting at least one paper for discussion during the course
     - To get full credit you should also show up for each session having read the assigned materials and be engaged in the discussion
